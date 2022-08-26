@@ -1,3 +1,5 @@
 # Demo project
 
-Just starting on github. Excited!!!
+Just starting on github.
+
+Excited!!!
